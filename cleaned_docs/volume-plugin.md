@@ -1,0 +1,3 @@
+A Volume Plugin enables integration of storage within a {{< glossary_tooltip text="Pod" term_id="pod" >}}.
+
+A Volume Plugin lets you attach and mount storage volumes for use by a {{< glossary_tooltip text="Pod" term_id="pod" >}}. Volume plugins can be in tree or out of tree. In tree plugins are part of the Kubernetes code repository and follow its release cycle. Out of tree plugins are developed independently.
