@@ -1,0 +1,7 @@
+A set of related paths in Kubernetes API.
+
+You can enable or disable each API group by changing the configuration of your API server. You can also disable or enable paths to specific
+{{< glossary_tooltip text="resources" term_id="api-resource" >}}. An API group makes it easier to extend the Kubernetes API.
+The API group is specified in a REST path and in the apiVersion field of a serialized {{< glossary_tooltip text="object" term_id="object" >}}.
+
+Read API Group for more information.
