@@ -1,0 +1,10 @@
+Case studies highlight how organizations are using Kubernetes to solve real-world problems. The
+Kubernetes marketing team and members of the {{< glossary_tooltip text="CNCF" term_id="cncf" >}}
+collaborate with you on all case studies.
+Case studies require extensive review before they're approved.
+
+Submit a case study
+Have a look at the source for the
+existing case studies.
+Refer to the case study guidelines
+and submit your request as outlined in the guidelines.
