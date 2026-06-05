@@ -1,0 +1,8 @@
+In Kubernetes versions before v1.23, a scheduling policy can be used to specify the predicates and priorities process. For example, you can set a scheduling policy by
+running kube-scheduler --policy-config-file <filename> or kube-scheduler --policy-configmap <ConfigMap>.
+This scheduling policy is not supported since Kubernetes v1.23. Associated flags policy-config-file, policy-configmap, policy-configmap-namespace and use-legacy-policy-config are also not supported. Instead, use the Scheduler Configuration to achieve similar behavior.
+{{% heading "whatsnext" %}}
+
+Learn about scheduling
+Learn about kube-scheduler Configuration
+Read the kube-scheduler configuration reference (v1)
