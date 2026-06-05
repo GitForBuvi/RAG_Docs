@@ -1,0 +1,1 @@
+Enable setting --service-account-signing-endpoint to make the kube-apiserver use external signer for token signing and token verifying key management.
