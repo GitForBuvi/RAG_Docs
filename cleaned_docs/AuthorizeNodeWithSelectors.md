@@ -1,0 +1,1 @@
+Make the Node authorizer use fine-grained selector authorization.
