@@ -1,0 +1,1 @@
+Enable support for streaming initial state of objects in watch requests.
