@@ -1,0 +1,1 @@
+When enabled, pods are allowed to use both hostNetwork and User Namespaces simultaneously.
